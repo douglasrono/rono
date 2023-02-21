@@ -2,8 +2,6 @@
 
 @section('content')
 
-@endsection
-
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
@@ -133,6 +131,10 @@
       </div>
     </section><!-- End Resume Section -->
 
-   
+
   </main><!-- End #main -->
+
+@endsection
+
+
 
