@@ -41,4 +41,9 @@ class PageController extends Controller
     {
         return view('contact');
     }
+
+    public function portfolioDetail()
+    {
+        return view('portfolioDetail');
+    }
 }
