@@ -30,4 +30,6 @@ Route::get('/portfolio', [App\Http\Controllers\PageController::class, 'portfolio
 Route::get('/testimonial', [App\Http\Controllers\PageController::class, 'testimonial'])->name('testimonial');
 Route::get('/skills', [App\Http\Controllers\PageController::class, 'skills'])->name('skills');
 
+Route::get('/portfolio-detail', [App\Http\Controllers\PageController::class, 'portfolioDetail'])->name('portfolio.details');
+
 
