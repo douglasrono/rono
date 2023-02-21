@@ -26,15 +26,15 @@
             <div class="swiper-wrapper align-items-center">
 
               <div class="swiper-slide">
-                <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
+                <img src="assets/img/portfolio/portfolio-detail-1.png" alt="">
               </div>
 
               <div class="swiper-slide">
-                <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                <img src="assets/img/portfolio/rono-app.png" alt="">
               </div>
 
               <div class="swiper-slide">
-                <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
+                <img src="assets/img/portfolio/portfolio-9.png" alt="">
               </div>
 
             </div>

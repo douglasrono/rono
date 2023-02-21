@@ -33,21 +33,18 @@
 <body>
 
     <div id="app">
-       <!-- ======= Mobile nav toggle button ======= -->
         <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
-        <!-- ======= Header ======= -->
         <header id="header">
             <div class="d-flex flex-column">
 
             <div class="profile">
-                <img src="assets/img/hero-bg.jpg" alt="" class="img-fluid rounded-circle">
-                <h1 class="text-light"><a href="index.html">Douglas Rono</a></h1>
+                <img src="assets/img/hero-bg.jpg" alt="" class="rounded-circle" width="150px" height="150px">
+                <h1 ><a href="/" class="text-warning">Douglas Rono</a></h1>
                 <div class="social-links mt-3 text-center">
+                <a href="https://github.com/douglasrono" target="blank" class="github"><i class="bx bxl-github"></i></a>
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                 </div>
             </div>
@@ -59,12 +56,12 @@
                 <li><a href="/skills" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Skills</span></a></li>
                 <li><a href="/portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
                 <li><a href="/testimonial" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Testimonial</span></a></li>
-                <li><a href="/services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+                <li><a href="/blog" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Blog</span></a></li>
                 <li><a href="/contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
                 </ul>
-            </nav><!-- .nav-menu -->
+            </nav>
             </div>
-        </header><!-- End Header -->
+        </header>
 
         <main class="py-4">
             @yield('content')

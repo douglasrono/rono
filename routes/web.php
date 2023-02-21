@@ -21,7 +21,7 @@ Route::get('/', [App\Http\Controllers\PageController::class, 'index'])->name('in
 
 Route::get('/about', [App\Http\Controllers\PageController::class, 'about'])->name('about');
 
-Route::get('/services', [App\Http\Controllers\PageController::class, 'services'])->name('services');
+Route::get('/blog', [App\Http\Controllers\PageController::class, 'blog'])->name('blog');
 
 Route::get('/contact', [App\Http\Controllers\PageController::class, 'contact'])->name('contact');
 

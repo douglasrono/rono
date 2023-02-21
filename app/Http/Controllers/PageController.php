@@ -21,9 +21,9 @@ class PageController extends Controller
         return view('skills');
     }
 
-    public function services()
+    public function blog()
     {
-        return view('services');
+        return view('blog');
     }
 
 

@@ -18,7 +18,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/hero-bg.jpg" class="img-fluid" alt="">
+          <img src="assets/img/hero-bg.jpg" width="400px" height="400px" style="border-radius: 50%" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Software Engineer &amp; Freelancer.</h3>

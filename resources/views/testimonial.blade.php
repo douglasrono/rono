@@ -25,9 +25,9 @@
 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <img src="assets/img/testimonials/avatar.png" class="testimonial-img" alt="">
+                  <h3>Alermart</h3>
+                  <h4>Ceo &amp; Founder </h4>
                 </div>
               </div><!-- End testimonial item -->
 
@@ -43,9 +43,9 @@
 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <img src="assets/img/testimonials/blank.png" class="testimonial-img" alt="">
+                  <h3>Sarah</h3>
+                  <h4>Busness Analyst</h4>
                 </div>
               </div><!-- End testimonial item -->
 
@@ -61,9 +61,9 @@
 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <img src="assets/img/testimonials/default.jpg" class="testimonial-img" alt="">
+                  <h3>Karlis</h3>
+                  <h4>Warehouse Owner</h4>
                 </div>
               </div><!-- End testimonial item -->
 
@@ -79,8 +79,8 @@
 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
+                  <img src="assets/img/testimonials/avatar.png" class="testimonial-img" alt="">
+                  <h3>Nova</h3>
                   <h4>Freelancer</h4>
                 </div>
               </div><!-- End testimonial item -->

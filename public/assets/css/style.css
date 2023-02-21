@@ -217,7 +217,8 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  background: blue;
+
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
 
 #hero:before {
